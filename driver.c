@@ -1,7 +1,6 @@
-uint32_t 
+uint32_t leerADC()
 
 void main()
 {
-        printf("Hola Carola");
-		mostrarMensajeBienvenida();
+        return(0);
 }
